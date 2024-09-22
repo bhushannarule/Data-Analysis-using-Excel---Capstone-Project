@@ -1,6 +1,4 @@
-# Red cab and Black cab sales analysis Capstone-Project
-# Performed a comparative analysis to identify which company generated higher profits.
-# Analyzed trends to determine consistent high performers across different time periods.
-# Segmented customer data by income, gender, and age to identify top customers and travel preferences.
-#![Screenshot (189)](https://github.com/bhushannarule/Data-Analysis-using-Excel---Capstone-Project/assets/159608325/0da440bd-3929-493c-a21f-9112e43a3c17)
+# Red cab and Black cab sales DashBoard
+# ![Dash board](https://github.com/user-attachments/assets/3d620580-d0b9-4b5e-b728-7259db0c10f4)
+
 
